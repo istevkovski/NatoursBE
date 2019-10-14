@@ -58,7 +58,6 @@ const filterObj = (obj, ...allowedFields) => {
 };
 
 exports.updateCurrent = catchAsync(async (req, res, next) => {
-    console.log(req.file);
     // Error if user POSTs password data
     if (req.body.password || req.body.passwordConfirm)
         next(
