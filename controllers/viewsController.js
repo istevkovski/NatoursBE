@@ -13,7 +13,7 @@ exports.getOverview = catchAsync(async (req, res, next) => {
     // Redner template using tour data
 
     res.status(200).render('overview', {
-        title: 'All tours',
+        title: `Journeys you'll remember!`,
         tours
     });
 });
