@@ -1,0 +1,8 @@
+NatoursTODO:
+  ☐ Create sign up functionality
+  ☐ When user updates their profile photo, remove old one from storage.
+  ☐ Create an email template
+  ☐ Improve restrictToOwnerOnly and implement
+  ☐ Create a front-end create a tour template
+  ☐ Virtual populate on getMyTours
+  ☐ Implementations from Lecture 216 / S13 - L19
