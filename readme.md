@@ -1,3 +1,3 @@
 # NatoursBE
 
-Build using modern technologies: NodeJS, Express, mongoDB, mongoose, bcrypt, multer, nodemailer, pug, sharp, stripe and more! 😊
+Build using modern technologies: NodeJS, Express, mongoDB, mongoose, bcrypt, stripe, multer, nodemailer, pug, compression, sharp and more! 😊
